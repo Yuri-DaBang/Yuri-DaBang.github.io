@@ -16,8 +16,6 @@ Using these APIs is as easy as pie 🥧! Just send HTTP requests to the provided
 ## License 📜
 Before you get too carried away, let's talk about the legal mumbo jumbo. This project is licensed under the `Creative Commons Attribution-NonCommercial-NoDerivs 4.0` International License. In plain English, that means you can look but don't touch (or sell, or modify). 🛑
 
-- [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-- To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+- [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)  To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 
